@@ -1,0 +1,3 @@
+Model,Accuracy,Balanced Acc,Macro F1,F1 Negatif
+LR asli,0.928,0.888,0.843,0.727
+LR tanpa kata AI,0.92,0.884,0.83,0.706

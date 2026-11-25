@@ -1,6 +1,6 @@
 # User Perceptions of AI Integration in Mobile-Assisted Language Learning: Sentiment Classification and User Backlash Against AI Adoption in Duolingo Reviews
 
-Repositori resmi untuk naskah **[International Conference on English Language Teaching, Linguistics, and Literature (INACELT 2026)](https://www.inacelt2026.my.id/)** (*manuscript submitted / presented; awaiting proceedings publication*) oleh **Nasywa Salsabiila Romadhona** *(First Author)* bersama dua dosen pembimbing: **Abdul Aziz** dan **Dwi Wahyu Prabowo** (Universitas Darwan Ali).
+Repositori resmi untuk naskah **[International Conference on English Language Teaching, Linguistics, and Literature (INACELT 2026)](https://www.inacelt2026.my.id/)** (*manuscript submitted / presented; awaiting proceedings publication*) yang ditulis oleh **Nasywa Salsabiila Romadhona** *(First Author)*, **Abdul Aziz**, dan **Dwi Wahyu Prabowo** (Universitas Darwan Ali).
 
 Penelitian ini menggunakan pendekatan *convergent mixed-methods* untuk mengevaluasi klasifikasi sentimen ulasan **Duolingo** dari Google Play Store dengan protokol pencegahan kebocoran data (*no-leakage protocol*), menganalisis aspek keluhan pengguna, serta memetakan respons terhadap kebijakan *"AI-first"* Duolingo (akhir April 2025).
 
